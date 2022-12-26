@@ -63,39 +63,6 @@
                     "grupoComponente": "curricular"
                 },
                 {
-                    "id": 5,
-                    "codigo": "INGD1",
-                    "nome": "Inglês Técnico",
-                    "periodo": 1,
-                    "periodoCursado": "2021/1",
-                    "frequencia": 68.7,
-                    "conceito": 1.4,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 6,
-                    "codigo": "MATD1",
-                    "nome": "Matemática",
-                    "periodo": 1,
-                    "periodoCursado": "2021/1",
-                    "frequencia": 90.9,
-                    "conceito": 5.5,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 7,
-                    "codigo": "SIND1",
-                    "nome": "Sistemas de Informação",
-                    "periodo": 1,
-                    "periodoCursado": "2021/1",
-                    "frequencia": 5.2,
-                    "conceito": 0.4,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
                     "id": 8,
                     "codigo": "BD1D2",
                     "nome": "Banco de Dados I",
@@ -125,28 +92,6 @@
                     "periodoCursado": "2021/2",
                     "frequencia": 52.4,
                     "conceito": 4.1,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 11,
-                    "codigo": "HCTD2",
-                    "nome": "História da Ciência e da Tecnologia",
-                    "periodo": 2,
-                    "periodoCursado": "2021/2",
-                    "frequencia": 92,
-                    "conceito": 5.5,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 12,
-                    "codigo": "IFED2",
-                    "nome": "Inglês para Fins Específicos",
-                    "periodo": 2,
-                    "periodoCursado": "2021/2",
-                    "frequencia": 36.7,
-                    "conceito": 1.2,
                     "situacao": "aprovado",
                     "grupoComponente": "curricular"
                 },
@@ -217,17 +162,6 @@
                     "grupoComponente": "curricular"
                 },
                 {
-                    "id": 19,
-                    "codigo": "ESTD4",
-                    "nome": "Estatística",
-                    "periodo": 4,
-                    "periodoCursado": "2022/2",
-                    "frequencia": 25.7,
-                    "conceito": 3,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
                     "id": 20,
                     "codigo": "IHCD4",
                     "nome": "Interação Humano-Computador",
@@ -235,17 +169,6 @@
                     "periodoCursado": "2021/1",
                     "frequencia": 0.6,
                     "conceito": 8.9,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 21,
-                    "codigo": "ADMD4",
-                    "nome": "Introdução à Administração",
-                    "periodo": 4,
-                    "periodoCursado": "2021/1",
-                    "frequencia": 82.5,
-                    "conceito": 0,
                     "situacao": "aprovado",
                     "grupoComponente": "curricular"
                 },
