@@ -1,6 +1,7 @@
 {
     "aluno": [
         {
+            "id": "BT6517279",
             "matricula": "BT6517279",
             "cpf": "478.036.055-85",
             "nome": "Kendra Bellow",
@@ -15,7 +16,427 @@
                     "sigla": "btv",
                     "nome": "Boituva"
                 }
-            }
+            },
+            "historico": [
+                {
+                    "id": 1,
+                    "codigo": "ALGD1",
+                    "nome": "Algoritmos e Programação",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 54.7,
+                    "conceito": 5.1,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 2,
+                    "codigo": "ARQD1",
+                    "nome": "Arquitetura de Computadores",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 66.2,
+                    "conceito": 7.8,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 3,
+                    "codigo": "COED1",
+                    "nome": "Comunicação e Expressão",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 48.8,
+                    "conceito": 1,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 4,
+                    "codigo": "WEDD1",
+                    "nome": "Desenvolvimento Web",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 83.5,
+                    "conceito": 5.3,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 5,
+                    "codigo": "INGD1",
+                    "nome": "Inglês Técnico",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 68.7,
+                    "conceito": 1.4,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 6,
+                    "codigo": "MATD1",
+                    "nome": "Matemática",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 90.9,
+                    "conceito": 5.5,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 7,
+                    "codigo": "SIND1",
+                    "nome": "Sistemas de Informação",
+                    "periodo": 1,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 5.2,
+                    "conceito": 0.4,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 8,
+                    "codigo": "BD1D2",
+                    "nome": "Banco de Dados I",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 80.8,
+                    "conceito": 3,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 9,
+                    "codigo": "ESWD2",
+                    "nome": "Engenharia de Software",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 47.4,
+                    "conceito": 8.2,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 10,
+                    "codigo": "ED1D2",
+                    "nome": "Estrutura de Dados I",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 52.4,
+                    "conceito": 4.1,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 11,
+                    "codigo": "HCTD2",
+                    "nome": "História da Ciência e da Tecnologia",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 92,
+                    "conceito": 5.5,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 12,
+                    "codigo": "IFED2",
+                    "nome": "Inglês para Fins Específicos",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 36.7,
+                    "conceito": 1.2,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 13,
+                    "codigo": "SOPD2",
+                    "nome": "Sistemas Operacionais",
+                    "periodo": 2,
+                    "periodoCursado": "2021/2",
+                    "frequencia": 39,
+                    "conceito": 9.2,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 14,
+                    "codigo": "AOOD3",
+                    "nome": "Análise Orientada a Objetos",
+                    "periodo": 3,
+                    "periodoCursado": "2022/1",
+                    "frequencia": 29.1,
+                    "conceito": 3.1,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 15,
+                    "codigo": "BD2D3",
+                    "nome": "Banco de Dados II",
+                    "periodo": 3,
+                    "periodoCursado": "2022/1",
+                    "frequencia": 45.6,
+                    "conceito": 7.6,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 16,
+                    "codigo": "WEPD3",
+                    "nome": "Programação para Web",
+                    "periodo": 3,
+                    "periodoCursado": "2022/1",
+                    "frequencia": 44.1,
+                    "conceito": 1.3,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 17,
+                    "codigo": "ED2D3",
+                    "nome": "Estrutura de Dados II",
+                    "periodo": 3,
+                    "periodoCursado": "2022/1",
+                    "frequencia": 67.1,
+                    "conceito": 3.5,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 18,
+                    "codigo": "RCOD3",
+                    "nome": "Redes de Computadores",
+                    "periodo": 3,
+                    "periodoCursado": "2022/1",
+                    "frequencia": 4.9,
+                    "conceito": 2.2,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 19,
+                    "codigo": "ESTD4",
+                    "nome": "Estatística",
+                    "periodo": 4,
+                    "periodoCursado": "2022/2",
+                    "frequencia": 25.7,
+                    "conceito": 3,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 20,
+                    "codigo": "IHCD4",
+                    "nome": "Interação Humano-Computador",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 0.6,
+                    "conceito": 8.9,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 21,
+                    "codigo": "ADMD4",
+                    "nome": "Introdução à Administração",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 82.5,
+                    "conceito": 0,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 22,
+                    "codigo": "MPCD4",
+                    "nome": "Metodologia de Pesquisa Científica e Tecnológica",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 55.4,
+                    "conceito": 3.5,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 23,
+                    "codigo": "TP1D4",
+                    "nome": "Técnicas de Programação I",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 22.9,
+                    "conceito": 0.1,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 24,
+                    "codigo": "POOD4",
+                    "nome": "Programação Orientada a Objetos",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 78.6,
+                    "conceito": 2,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 25,
+                    "codigo": "SEGD4",
+                    "nome": "Segurança da Informação",
+                    "periodo": 4,
+                    "periodoCursado": "2021/1",
+                    "frequencia": 0.6,
+                    "conceito": 6.7,
+                    "situacao": "aprovado",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 26,
+                    "codigo": "AGRD5",
+                    "nome": "Administração e Gerenciamento de Redes",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 27,
+                    "codigo": "CBGD5",
+                    "nome": "Contabilidade Básica e Gerência Financeira",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 28,
+                    "codigo": "GPRD5",
+                    "nome": "Gestão de Projetos",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 29,
+                    "codigo": "PI1D5",
+                    "nome": "Projeto Integrado I",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 30,
+                    "codigo": "TP2D5",
+                    "nome": "Técnicas de Programação II",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 31,
+                    "codigo": "EL1D5",
+                    "nome": "Eletiva I",
+                    "periodo": 5,
+                    "periodoCursado": "2023/1",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "eletivo"
+                },
+                {
+                    "id": 32,
+                    "codigo": "EMPD6",
+                    "nome": "Empreendedorismo",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 33,
+                    "codigo": "ITID6",
+                    "nome": "Inovação em Tecnologia da Informação e Comunicação",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 34,
+                    "codigo": "PI2D6",
+                    "nome": "Projeto Integrado II",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 35,
+                    "codigo": "TASD6",
+                    "nome": "Tópicos Avançados em Sistemas de Informação",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 36,
+                    "codigo": "SIED6",
+                    "nome": "Sistemas de Informações Empresariais",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "curricular"
+                },
+                {
+                    "id": 37,
+                    "codigo": "EL2D6",
+                    "nome": "Eletiva II",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "eletivo"
+                },
+                {
+                    "id": 38,
+                    "codigo": "EL3D6",
+                    "nome": "Eletiva III",
+                    "periodo": 6,
+                    "periodoCursado": "2023/2",
+                    "frequencia": null,
+                    "conceito": null,
+                    "situacao": "cursando",
+                    "grupoComponente": "eletivo"
+                }
+            ]
         }
     ]
 }
