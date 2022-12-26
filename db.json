@@ -151,17 +151,6 @@
                     "grupoComponente": "curricular"
                 },
                 {
-                    "id": 18,
-                    "codigo": "RCOD3",
-                    "nome": "Redes de Computadores",
-                    "periodo": 3,
-                    "periodoCursado": "2022/1",
-                    "frequencia": 4.9,
-                    "conceito": 2.2,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
                     "id": 20,
                     "codigo": "IHCD4",
                     "nome": "Interação Humano-Computador",
@@ -203,39 +192,6 @@
                     "frequencia": 78.6,
                     "conceito": 2,
                     "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 25,
-                    "codigo": "SEGD4",
-                    "nome": "Segurança da Informação",
-                    "periodo": 4,
-                    "periodoCursado": "2021/1",
-                    "frequencia": 0.6,
-                    "conceito": 6.7,
-                    "situacao": "aprovado",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 26,
-                    "codigo": "AGRD5",
-                    "nome": "Administração e Gerenciamento de Redes",
-                    "periodo": 5,
-                    "periodoCursado": "2023/1",
-                    "frequencia": null,
-                    "conceito": null,
-                    "situacao": "cursando",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 27,
-                    "codigo": "CBGD5",
-                    "nome": "Contabilidade Básica e Gerência Financeira",
-                    "periodo": 5,
-                    "periodoCursado": "2023/1",
-                    "frequencia": null,
-                    "conceito": null,
-                    "situacao": "cursando",
                     "grupoComponente": "curricular"
                 },
                 {
@@ -319,17 +275,6 @@
                     "id": 35,
                     "codigo": "TASD6",
                     "nome": "Tópicos Avançados em Sistemas de Informação",
-                    "periodo": 6,
-                    "periodoCursado": "2023/2",
-                    "frequencia": null,
-                    "conceito": null,
-                    "situacao": "cursando",
-                    "grupoComponente": "curricular"
-                },
-                {
-                    "id": 36,
-                    "codigo": "SIED6",
-                    "nome": "Sistemas de Informações Empresariais",
                     "periodo": 6,
                     "periodoCursado": "2023/2",
                     "frequencia": null,
