@@ -1,20 +1,22 @@
 {
-    "aluno": {
-        "id": 1,
-        "matricula": "BT6517279",
-        "cpf": "478.036.055-85",
-        "nome": "Kendra Bellow",
-        "periodoIngresso": "2021/1",
-        "ira": 8.5,
-        "curso": {
-            "codigo": "BTV.TCN.ADS.2013",
-            "quantidadePeriodos": 6,
-            "tipoPeriodo": "semestre",
-            "nome": "Análise e Desenvolvimento de Sistemas",
-            "campus": {
-                "sigla": "btv",
-                "nome": "Boituva"
+    "aluno": [
+        {
+            "id": "BT6517279",
+            "matricula": "BT6517279",
+            "cpf": "478.036.055-85",
+            "nome": "Kendra Bellow",
+            "periodoIngresso": "2021/1",
+            "ira": 8.5,
+            "curso": {
+                "codigo": "BTV.TCN.ADS.2013",
+                "quantidadePeriodos": 6,
+                "tipoPeriodo": "semestre",
+                "nome": "Análise e Desenvolvimento de Sistemas",
+                "campus": {
+                    "sigla": "btv",
+                    "nome": "Boituva"
+                }
             }
         }
-    }
+    ]
 }
